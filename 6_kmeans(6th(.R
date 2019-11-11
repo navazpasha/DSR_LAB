@@ -1,7 +1,7 @@
 library(cluster)
 library(ggplot2)
 #library(plyr)
-#--------------This File Belongs to Naveen RJ-(1bm16CS055)----------------
+#--NAVAZ_PASHA_1BM16CS054
 #library(lattice)
 #library(graphics)
 x<-c(185,170,168,179,182,188)
