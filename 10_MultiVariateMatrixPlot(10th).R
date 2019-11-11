@@ -1,3 +1,4 @@
+#--NAVAZ_PASHA_1BM16CS054
 Length<-c(20,21,22,23,21,20)
 Speed<-c(12,14,12,16,20,21)
 Algae<-c(40,45,45,80,75,65) 
@@ -11,4 +12,3 @@ plot(Length~BOD,data=mf, main='plot1')
 plot.new()
 plot.new()
 plot(Length ~ NO3,data=mf,main='plot4')
-#--------------This File Belongs to Naveen RJ-(1bm16CS055)----------------
