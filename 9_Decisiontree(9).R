@@ -14,7 +14,7 @@ library("rpart.plot")
 #summary(play_decision)
 
 
-p <- read.csv("C:/Users/jyothiramesh/Desktop/dsr/8836201-6f9306ad21398ea43cba4f7d537619d0e07d5ae3/DT.csv")
+p <- read.csv("C:/Users/Navaz/Desktop/dsr/8836201-6f9306ad21398ea43cba4f7d537619d0e07d5ae3/DT.csv")
 p2 <- data.frame(p)
 p2
 
