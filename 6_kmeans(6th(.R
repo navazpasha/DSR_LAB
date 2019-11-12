@@ -9,7 +9,7 @@ y<-c(72,56,60,68,72,77)
 
 
 #below code is for iris dataset read from iris.csv
-k <- read.csv("C:/Users/jyothiramesh/Desktop/dsr/8836201-6f9306ad21398ea43cba4f7d537619d0e07d5ae3/iris.csv")
+k <- read.csv("C:/Users/Navaz/Desktop/dsr/8836201-6f9306ad21398ea43cba4f7d537619d0e07d5ae3/iris.csv")
 k
 k1 <- k[,1:2]
 k1
